@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<Configs>  
+  <Repositorio>  
+    <Git>https://github.com/grupoprotege/sip-logistica.git</Git>  
+	<Git>sip-logistica</Git>	
+  </Repositorio>  
+  <Compilador>  
+    <Delphi>BDS=C:\Program Files (x86)\Embarcadero\Studio\15.0</Delphi>	  
+	<Delphi>BDSINCLUDE=C:\Program Files (x86)\Embarcadero\Studio\15.0\include</Delphi>
+	<Delphi>BDSCOMMONDIR=C:\Users\Public\Documents\Embarcadero\Studio\15.0</Delphi>
+	<Delphi>FrameworkDir=C:\Windows\Microsoft.NET\Framework\v3.5</Delphi>
+	<Delphi>FrameworkVersion=v3.5</Delphi>
+	<Delphi>FrameworkSDKDir=</Delphi>
+	<Delphi>PATH=%FrameworkDir%;%FrameworkSDKDir%;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin64;%PATH%</Delphi>
+	<Delphi>LANGDIR=EN</Delphi>
+	<Delphi>PLATFORM=</Delphi>
+	<Delphi>PlatformSDK=</Delphi>
+  </Compilador> 
+  <RepositorioLocal>	  
+	<FolderWork>C:\DevOps\RepWork</FolderWork>
+  </RepositorioLocal>
+</Configs>  

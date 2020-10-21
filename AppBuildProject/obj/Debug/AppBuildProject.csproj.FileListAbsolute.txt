@@ -1,0 +1,10 @@
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\bin\Debug\AppBuildProject.exe.config
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\bin\Debug\AppBuildProject.exe
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\bin\Debug\AppBuildProject.pdb
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\obj\Debug\AppBuildProject.Properties.Resources.resources
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\obj\Debug\AppBuildProject.csproj.GenerateResource.cache
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\obj\Debug\AppBuildProject.csproj.CoreCompileInputs.cache
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\obj\Debug\AppBuildProject.exe
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\obj\Debug\AppBuildProject.pdb
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\obj\Debug\AppBuildProject.FrmPrincipal.resources
+C:\Eduardo\Projetos\BuildProject\AppBuildProject\AppBuildProject\obj\Debug\AppBuildProject.csprojAssemblyReference.cache
